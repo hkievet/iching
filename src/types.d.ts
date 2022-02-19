@@ -24,4 +24,4 @@ export interface Line {
 }
 
 
-export type Trigram = 
+export type Trigram = '☰' | '☷' | '☳' | '☶' | '☵' | '☱' | '☴' | '☲'
