@@ -1,10 +1,19 @@
 <script lang="ts">
-	export let line = '';
+	import { createEventDispatcher } from 'svelte';
+
+	const dispatch = createEventDispatcher();
+
 	export let lineType: 'yin' | 'yang' | undefined;
-	let hovering;
+	export let lineNumber: number; // zero based index of the line.
+	let hovering: boolean;
+	function onClick() {
+		// selectedLine.set(lineNumber);
+		dispatch('changeLine', { lineNumber });
+	}
 </script>
 
 <div
+	on:click={onClick}
 	on:mouseenter={() => (hovering = true)}
 	on:mouseleave={() => (hovering = false)}
 	class="hover:cursor-pointer"
