@@ -8,11 +8,13 @@
 	<div class="top-section">
 		<p>{hexagram.number}</p>
 		<p>{hexagram.name.english}</p>
-		<p>{hexagram.name.chinese}</p>
-		{#each hexagram.lines as line}
-			<p>{line.meaning}</p>
+		<p class="text-2xl">{hexagram.name.chinese}</p>
+		{#each hexagram.lines as line, i}
+			<p>{i + 1}. {line.meaning}</p>
 		{/each}
+		<h2>Judgement</h2>
 		<p>{hexagram.judgement}</p>
+		<h2>Image</h2>
 		<p>{hexagram.images}</p>
 		<!-- <Trigram trigramIndex={hexagram.trigramPair.above} />
 		<Trigram trigramIndex={hexagram.trigramPair.below} /> -->
