@@ -1,0 +1,450 @@
+[
+    {
+        "id": "1",
+        "name": "Ch'ien - The Creative",
+        "hexagram": "☰☰",
+        "judgement": "The Creative works sublime success, furthering through perseverance.",
+        "image": "The movement of heaven is full of power. Thus the superior person makes themself strong and untiring."
+    },
+    {
+        "id": "2",
+        "name": "K'un - The Receptive",
+        "hexagram": "☷☷",
+        "judgement": "The Receptive brings about sublime success, furthering through the perseverance of a mare. If the superior person undertakes something and tries to lead, they go astray; but if they follow, they find guidance. It is favorable to find friends in the west and south, to forego friends in the east and north. Quiet perseverance brings good fortune.",
+        "image": "The earth's condition is receptive devotion. Thus the superior person who has breadth of character carries the outer world."
+    },
+    {
+        "id": "3",
+        "name": "Chun - Difficulty at the Beginning",
+        "hexagram": "☵☳",
+        "judgement": "Difficulty at the beginning works supreme success, furthering through perseverance. Nothing should be undertaken. It furthers one to appoint helpers.",
+        "image": "Clouds and thunder: the image of difficulty at the beginning. Thus the superior person brings order out of confusion."
+    },
+    {
+        "id": "4",
+        "name": "Mêng - Youthful Folly",
+        "hexagram": "☶☵",
+        "judgement": "Youthful folly has success. It is not I who seek the young fool; the young fool seeks me. At the first oracle I inform them. If they ask two or three times, it is importunity. If they importune, I give them no information. Perseverance furthers.",
+        "image": "A spring wells up at the foot of the mountain: the image of youth. Thus the superior person fosters their character by thoroughness in all that they do."
+    },
+    {
+        "id": "5",
+        "name": "Hsu - Waiting (Nourishment)",
+        "hexagram": "☵☰",
+        "judgement": "Waiting. If you are sincere, you have light and success. Perseverance brings good fortune. It furthers one to cross the great water.",
+        "image": "Clouds rise up to heaven: the image of waiting. Thus the superior person eats and drinks, is joyous and of good cheer."
+    },
+    {
+        "id": "6",
+        "name": "Sung - Conflict",
+        "hexagram": "☰☵",
+        "judgement": "Conflict. You are sincere and are being obstructed. A cautious halt halfway brings good fortune. Going through to the end brings misfortune. It furthers one to see the great person. It does not further one to cross the great water.",
+        "image": "Heaven and water go their opposite ways: the image of conflict. Thus in all their transactions the superior person carefully considers the beginning."
+    },
+    {
+        "id": "7",
+        "name": "Shih - The Army",
+        "hexagram": "☷☵",
+        "judgement": "The Army. The army needs perseverance and a strong person. Good fortune without blame.",
+        "image": "In the middle of the earth is water: the image of the army. Thus the superior person increases their masses by generosity toward the people."
+    },
+    {
+        "id": "8",
+        "name": "Pi - Holding Together [Union]",
+        "hexagram": "☵☷",
+        "judgement": "Holding together brings good fortune. Inquire of the oracle once again whether you possess sublimity, constancy, and perseverance; then there is no blame. Those who are uncertain gradually join. Whoever comes too late meets with misfortune.",
+        "image": "On the earth is water: the image of holding together. Thus the rulers of antiquity bestowed the different states as fiefs and cultivated friendly relations with the feudal lords."
+    },
+    {
+        "id": "9",
+        "name": "Hsiao Ch'u - The Taming Power of the Small",
+        "hexagram": "☴☰",
+        "judgement": "The taming power of the small has success. Dense clouds, no rain from our western region.",
+        "image": "The wind drives across heaven: the image of the taming power of the small. Thus the superior person refines the outward aspect of their nature."
+    },
+    {
+        "id": "10",
+        "name": "Lu - Treading [Conduct]",
+        "hexagram": "☰☱",
+        "judgement": "Treading. Treading upon the tail of the tiger. It does not bite the person. Success.",
+        "image": "Heaven above, the lake below: the image of treading. Thus the superior person discriminates between high and low and thereby fortifies the thinking of the people."
+    },
+    {
+        "id": "11",
+        "name": "T'ai - Peace",
+        "hexagram": "☷☰",
+        "judgement": "Peace. The small departs, the great approaches. Good fortune. Success.",
+        "image": "Heaven and Earth unite: the image of peace. Thus the ruler divides and completes the course of heaven and earth; they further and regulate the gifts of heaven and earth, and so aid the people."
+    },
+    {
+        "id": "12",
+        "name": "P'i - Standstill [Stagnation]",
+        "hexagram": "☰☷",
+        "judgement": "Standstill. Evil people do not further the perseverance of the superior person. The great departs; the small approaches.",
+        "image": "Heaven and Earth do not unite: the image of standstill. Thus the superior person falls back upon their inner worth in order to escape the difficulties. They do not permit themself to be honored with revenue."
+    },
+    {
+        "id": "13",
+        "name": "T'ung Jên - Fellowship with Men",
+        "hexagram": "☰☲",
+        "judgement": "Fellowship with people in the open. Success. It furthers one to cross the great water. The perseverance of the superior person furthers.",
+        "image": "Heaven together with fire: the image of fellowship. Thus the superior person organizes the clans and makes distinctions between things."
+    },
+    {
+        "id": "14",
+        "name": "Ta Yu - Possession in Great Measure",
+        "hexagram": "☲☰",
+        "judgement": "Possession in great measure. Supreme success.",
+        "image": "Fire in heaven above: the image of possession in great measure. Thus the superior person curbs evil and furthers good, and thereby obeys the benevolent will of heaven."
+    },
+    {
+        "id": "15",
+        "name": "Ch'ien - Modesty",
+        "hexagram": "☷☶",
+        "judgement": "Modesty creates success. The superior person carries things through.",
+        "image": "Within the earth, a mountain: the image of modesty. Thus the superior person reduces that which is too much, and augments that which is too little. They weigh things and make them equal."
+    },
+    {
+        "id": "16",
+        "name": "Yu - Enthusiasm",
+        "hexagram": "☳☷",
+        "judgement": "Enthusiasm. It furthers one to install helpers and to set armies marching.",
+        "image": "Thunder comes resounding out of the earth: the image of enthusiasm. Thus the ancient rulers made music in order to honor merit, and offered it with splendor to the Supreme Deity, inviting their ancestors to be present."
+    },
+    {
+        "id": "17",
+        "name": "Sui - Following",
+        "hexagram": "☱☳",
+        "judgement": "Following has supreme success. Perseverance furthers. No blame.",
+        "image": "Thunder in the middle of the lake: the image of following. Thus the superior person at nightfall goes indoors for rest and recuperation."
+    },
+    {
+        "id": "18",
+        "name": "Ku - Work on What Has Been Spoiled [Decay]",
+        "hexagram": "☶☴",
+        "judgement": "Work on what has been spoiled has supreme success. It furthers one to cross the great water. Before the starting point, three days. After the starting point, three days.",
+        "image": "The wind blows low on the mountain: the image of decay. Thus the superior person stirs up the people and strengthens their spirit."
+    },
+    {
+        "id": "19",
+        "name": "Lin - Approach",
+        "hexagram": "☷☱",
+        "judgement": "Approach has supreme success. Perseverance furthers. When the eighth month comes, there will be misfortune.",
+        "image": "The earth above the lake: the image of approach. Thus the superior person is inexhaustible in their will to teach, and without limits in their tolerance and protection of the people."
+    },
+    {
+        "id": "20",
+        "name": "Kuan - Contemplation (View)",
+        "hexagram": "☴☷",
+        "judgement": "Contemplation. The ablution has been made, but not yet the offering. Full of trust they look up to them.",
+        "image": "The wind blows over the earth: the image of contemplation. Thus the rulers of old visited the regions of the world, contemplated the people, and gave them instruction."
+    },
+    {
+        "id": "21",
+        "name": "Shih Ho - Biting Through",
+        "hexagram": "☲☳",
+        "judgement": "Biting through has success. It is favorable to let justice be administered.",
+        "image": "Thunder and lightning: the image of biting through. Thus the rulers of former times made firm the laws through clearly defined penalties."
+    },
+    {
+        "id": "22",
+        "name": "Pi - Grace",
+        "hexagram": "☶☲",
+        "judgement": "Grace has success. In small matters it is favorable to undertake something.",
+        "image": "Fire at the foot of the mountain: the image of grace. Thus does the superior person proceed when clearing up current affairs. But they dare not decide controversial issues in this way."
+    },
+    {
+        "id": "23",
+        "name": "Po - Splitting Apart",
+        "hexagram": "☶☷",
+        "judgement": "Splitting Apart. It does not further one to go anywhere.",
+        "image": "The mountain rests on the earth: the image of splitting apart. Thus those above can ensure their position only by giving generously to those below."
+    },
+    {
+        "id": "24",
+        "name": "Fu - Return (The Turning Point)",
+        "hexagram": "☷☳",
+        "judgement": "Return. Success. Going out and coming in without error. Friends come without blame. To and fro goes the way. On the seventh day comes return. It furthers one to have somewhere to go.",
+        "image": "Thunder within the earth: the image of the turning point. Thus the rulers of antiquity closed the passes at the time of solstice. Merchants and strangers did not go about, and the ruler did not travel through the provinces."
+    },
+    {
+        "id": "25",
+        "name": "Wu Wang - Innocence (The Unexpected)",
+        "hexagram": "☰☳",
+        "judgement": "Innocence. Supreme success. Perseverance furthers. If someone is not as they should be, they have misfortune, and it does not further them to undertake anything.",
+        "image": "Under heaven thunder rolls: all things attain the natural state of innocence. Thus the rulers of old, rich in virtue, and in harmony with the time, fostered and nourished all beings."
+    },
+    {
+        "id": "26",
+        "name": "Ta Ch'u - The Taming Power of the Great",
+        "hexagram": "☶☰",
+        "judgement": "The Taming Power of the Great. Perseverance furthers. Not eating at home brings good fortune. It furthers one to cross the great water.",
+        "image": "Heaven within the mountain: the image of the taming power of the great. Thus the superior person acquaints themself with many sayings of antiquity and many deeds of the past, in order to strengthen their character thereby."
+    },
+    {
+        "id": "27",
+        "name": "I - The Corners of the Mouth (Providing Nourishment)",
+        "hexagram": "☶☳",
+        "judgement": "The Corners of the Mouth. Perseverance brings good fortune. Pay heed to the providing of nourishment and to what a person seeks to fill their own mouth with.",
+        "image": "At the foot of the mountain, thunder: the image of providing nourishment. Thus the superior person is careful of their words and temperate in eating and drinking."
+    },
+    {
+        "id": "28",
+        "name": "Ta Kuo - Preponderance of the Great",
+        "hexagram": "☱☴",
+        "judgement": "Preponderance of the Great. The ridgepole sags to the breaking point. It furthers one to have somewhere to go. Success.",
+        "image": "The lake rises above the trees: the image of preponderance of the great. Thus the superior person, when they stand alone, is unconcerned, and if they have to renounce the world, they are undaunted."
+    },
+    {
+        "id": "29",
+        "name": "K'an - The Abysmal (Water)",
+        "hexagram": "☵☵",
+        "judgement": "The Abysmal repeated. If you are sincere, you have success in your heart, and whatever you do succeeds.",
+        "image": "Water flows on uninterruptedly and reaches its goal: the image of the abysmal repeated. Thus the superior person walks in lasting virtue and carries on the business of teaching."
+    },
+    {
+        "id": "30",
+        "name": "Li - The Clinging, fire",
+        "hexagram": "☲☲",
+        "judgement": "The Clinging. Perseverance furthers. It brings success. Care of the cow brings good fortune.",
+        "image": "That which is bright rises twice: the image of fire. Thus the great person, by perpetuating this brightness, illumines the four quarters of the world."
+    },
+    {
+        "id": "31",
+        "name": "Hsien - Influence (Wooing)",
+        "hexagram": "☱☶",
+        "judgement": "Influence. Success. Perseverance furthers. To take a young person as a spouse brings good fortune.",
+        "image": "A lake on the mountain: the image of influence. Thus the superior person encourages people to approach them by their readiness to receive them."
+    },
+    {
+        "id": "32",
+        "name": "Hêng - Duration",
+        "hexagram": "☳☴",
+        "judgement": "Duration. Success. No blame. Perseverance furthers. It furthers one to have somewhere to go.",
+        "image": "Thunder and wind: the image of duration. Thus the superior person stands firm and does not change their direction."
+    },
+    {
+        "id": "33",
+        "name": "Tun - Retreat",
+        "hexagram": "☰☶",
+        "judgement": "Retreat. Success. In what is small, perseverance furthers.",
+        "image": "Mountain under heaven: the image of retreat. Thus the superior person keeps the inferior one at a distance, not angrily but with reserve."
+    },
+    {
+        "id": "34",
+        "name": "Ta Chuang - The Power of the Great",
+        "hexagram": "☳☰",
+        "judgement": "The Power of the Great. Perseverance furthers.",
+        "image": "Thunder in heaven above: the image of the power of the great. Thus the superior person does not tread upon paths that do not accord with established order."
+    },
+    {
+        "id": "35",
+        "name": "Chin - Progress",
+        "hexagram": "☲☷",
+        "judgement": "Progress. The powerful prince is honored with horses in large numbers. In a single day they are granted audience three times.",
+        "image": "The sun rises over the earth: the image of progress. Thus the superior person themself brightens their bright virtue."
+    },
+    {
+        "id": "36",
+        "name": "Ming I - Darkening of the Light",
+        "hexagram": "☷☲",
+        "judgement": "Darkening of the Light. In adversity it furthers one to be persevering.",
+        "image": "The light has sunk into the earth: the image of darkening of the light. Thus does the superior person live with the great mass: they veil their light, yet still shines."
+    },
+    {
+        "id": "37",
+        "name": "Chia Jên - The Family [The Clan]",
+        "hexagram": "☴☲",
+        "judgement": "The Family. The perseverance of the woman furthers.",
+        "image": "Wind comes forth from fire: the image of the family. Thus the superior person has substance in their words and duration in their way of life."
+    },
+    {
+        "id": "38",
+        "name": "K'uei - Opposition",
+        "hexagram": "☲☱",
+        "judgement": "Opposition. In small matters, good fortune.",
+        "image": "Above, fire; below, the lake: the image of opposition. Thus amid all fellowship the superior person retains their individuality."
+    },
+    {
+        "id": "39",
+        "name": "Chien - Obstruction",
+        "hexagram": "☵☶",
+        "judgement": "Obstruction. The southwest furthers. The northeast does not further. It furthers one to see the great person. Perseverance brings good fortune.",
+        "image": "Water on the mountain: the image of obstruction. Thus the superior person turns their attention to themself and molds their character."
+    },
+    {
+        "id": "40",
+        "name": "Hsieh - Deliverance",
+        "hexagram": "☳☵",
+        "judgement": "Deliverance. The southwest furthers. If there is no longer anything where one has to go, return brings good fortune. If there is still something where one has to go, hastening brings good fortune.",
+        "image": "Thunder and rain set in: the image of deliverance. Thus the superior person pardons mistakes and forgives misdeeds."
+    },
+    {
+        "id": "41",
+        "name": "Sun - Decrease",
+        "hexagram": "☶☱",
+        "judgement": "Decrease combined with sincerity brings about supreme good fortune without blame. One may be persevering in this. It furthers one to undertake something. How is this to be carried out? One may use two small bowls for the sacrifice.",
+        "image": "At the foot of the mountain, the lake: the image of decrease. Thus the superior person controls their anger and restrains their instincts."
+    },
+    {
+        "id": "42",
+        "name": "I - Increase",
+        "hexagram": "☴☳",
+        "judgement": "Increase. It furthers one to undertake something. It furthers one to cross the great water.",
+        "image": "Wind and thunder: the image of increase. Thus the superior person: if they see good, they imitate it; if they have faults, they rid themself of them."
+    },
+    {
+        "id": "43",
+        "name": "Kuai - Break-through (Resoluteness)",
+        "hexagram": "☱☰",
+        "judgement": "Break-through. One must resolutely make the matter known at the court of the ruler. It must be announced truthfully. Danger. It is necessary to notify one's own city. It does not further to resort to arms. It furthers one to undertake something.",
+        "image": "The lake has risen up to heaven: the image of break-through. Thus the superior person dispenses riches downward and refrains from resting on their virtue."
+    },
+    {
+        "id": "44",
+        "name": "Kou - Coming to Meet",
+        "hexagram": "☰☴",
+        "judgement": "Coming to Meet. The youthful is powerful. One should not marry such a youth.",
+        "image": "Under heaven, wind: the image of coming to meet. Thus does the ruler act when disseminating their commands and proclaiming them to the four quarters of heaven."
+    },
+    {
+        "id": "45",
+        "name": "Ts'ui - Gathering Together [Massing]",
+        "hexagram": "☱☷",
+        "judgement": "Gathering Together. Success. The ruler approaches their temple. It furthers one to see the great person. This brings success. Perseverance furthers. To bring great offerings creates good fortune. It furthers one to undertake something.",
+        "image": "Over the earth, the lake: the image of gathering together. Thus the superior person renews their weapons In order to meet the unforeseen."
+    },
+    {
+        "id": "46",
+        "name": "Shêng - Pushing Upward",
+        "hexagram": "☷☴",
+        "judgement": "Pushing upward has supreme success. One must see the great person. Fear not. Departure toward the south brings good fortune.",
+        "image": "Within the earth, wood grows: the image of pushing upward. Thus the superior person of devoted character heaps up small things in order to achieve something high and great."
+    },
+    {
+        "id": "47",
+        "name": "K'un - Oppression (Exhaustion)",
+        "hexagram": "☱☵",
+        "judgement": "Oppression. Success. Perseverance. The great person brings about good fortune. No blame. When one has something to say, it is not believed.",
+        "image": "There is no water in the lake: the image of exhaustion. Thus the superior person stakes their life on following their will."
+    },
+    {
+        "id": "48",
+        "name": "Ching - The Well",
+        "hexagram": "☵☴",
+        "judgement": "The Well. The town may be changed, but the well cannot be changed. It neither decreases nor increases. They come and go and draw from the well. If one gets down almost to the water and the rope does not go all the way, or the jug breaks, it brings misfortune.",
+        "image": "Water over wood: the image of the well. Thus the superior person encourages the people at their work, and exhorts them to help one another."
+    },
+    {
+        "id": "49",
+        "name": "Ko - Revolution (Molting)",
+        "hexagram": "☱☲",
+        "judgement": "Revolution. On your own day you are believed. Supreme success, furthering through perseverance. Remorse disappears.",
+        "image": "Fire in the lake: the image of revolution. Thus the superior person sets the calendar in order and makes the seasons clear."
+    },
+    {
+        "id": "50",
+        "name": "Ting - The Cauldron",
+        "hexagram": "☲☴",
+        "judgement": "The Cauldron. Supreme good fortune. Success.",
+        "image": "Fire over wood: the image of the cauldron. Thus the superior person consolidates their fate by making their position correct."
+    },
+    {
+        "id": "51",
+        "name": "Chên - The Arousing (Shock, Thunder)",
+        "hexagram": "☳☳",
+        "judgement": "Shock brings success. Shock comes–oh, oh! Laughing words–ha ha! The shock terrifies for a hundred miles, and they do not let fall the sacrificial spoon and chalice.",
+        "image": "Thunder repeated: the image of shock. Thus in fear and trembling the superior person sets their life in order and examines themself."
+    },
+    {
+        "id": "52",
+        "name": "Kên - Keeping Still, Mountain",
+        "hexagram": "☶☶",
+        "judgement": "Keeping Still. Keeping their back still so that they no longer feel their body. They go into their courtyard and do not see their people. No blame.",
+        "image": "Mountains standing close together: the image of keeping still. Thus the superior person does not permit their thoughts to go beyond their situation."
+    },
+    {
+        "id": "53",
+        "name": "Chien - Development (Gradual Progress)",
+        "hexagram": "☴☶",
+        "judgement": "Development. The young person is given in marriage. Good fortune. Perseverance furthers.",
+        "image": "On the mountain, a tree: the image of development. Thus the superior person abides in dignity and virtue, in order to improve the mores."
+    },
+    {
+        "id": "54",
+        "name": "Kuei Mei - The Marrying Maiden",
+        "hexagram": "☳☱",
+        "judgement": "The Marrying Youth. Undertakings bring misfortune. Nothing that would further.",
+        "image": "Thunder over the lake: the image of the marrying youth. Thus the superior person understands the transitory in the light of the eternity of the end."
+    },
+    {
+        "id": "55",
+        "name": "Fêng - Abundance [Fullness]",
+        "hexagram": "☳☲",
+        "judgement": "Abundance has success. The king attains abundance. Be not sad. Be like the sun at midday.",
+        "image": "Both thunder and lightning come: the image of abundance. Thus the superior person decides lawsuits and carries out punishments."
+    },
+    {
+        "id": "56",
+        "name": "Lu - The Wanderer",
+        "hexagram": "☲☶",
+        "judgement": "The Wanderer. Success through smallness. Perseverance brings good fortune to the wanderer.",
+        "image": "Fire on the mountain: the image of the wanderer. Thus the superior person is clear-minded and cautious in imposing penalties, and protracts no lawsuits."
+    },
+    {
+        "id": "57",
+        "name": "Sun - The Gentle (The Penetrating, Wind)",
+        "hexagram": "☴☴",
+        "judgement": "The Gentle. Success through what is small. It furthers one to have somewhere to go. It furthers one to see the great person.",
+        "image": "Winds following one upon the other: the image of the gently penetrating. Thus the superior person spreads their commands abroad and carries out their undertakings."
+    },
+    {
+        "id": "58",
+        "name": "Tui - The Joyous, Lake",
+        "hexagram": "☱☱",
+        "judgement": "The Joyous. Success. Perseverance is favorable.",
+        "image": "Lakes resting one on the other: the image of the joyous. Thus the superior person joins with their friends for discussion and practice."
+    },
+    {
+        "id": "59",
+        "name": "Huan - Dispersion [Dissolution]",
+        "hexagram": "☴☵",
+        "judgement": "Dispersion. Success. The ruler approaches their temple. It furthers one to cross the great water. Perseverance furthers.",
+        "image": "The wind drives over the water: the image of dispersion. Thus the rulers of old sacrificed and built temples."
+    },
+    {
+        "id": "60",
+        "name": "Chieh - Limitation",
+        "hexagram": "☵☱",
+        "judgement": "Limitation. Success. Galling limitation must not be persevered in.",
+        "image": "Water over lake: the image of limitation. Thus the superior person creates number and measure, and examines the nature of virtue and correct conduct."
+    },
+    {
+        "id": "61",
+        "name": "Chung Fu - Inner Truth",
+        "hexagram": "☴☱",
+        "judgement": "Inner Truth. Pigs and fishes. Good fortune. It furthers one to cross the great water. Perseverance furthers.",
+        "image": "Wind over lake: the image of inner truth. Thus the superior person discusses criminal cases in order to delay executions."
+    },
+    {
+        "id": "62",
+        "name": "Hsiao Kuo - Preponderance of the Small",
+        "hexagram": "☳☶",
+        "judgement": "Preponderance of the Small. Success. Perseverance furthers. Small things may be done; great things should not be done. The flying bird brings the message: It is not well to strive upward, it is well to remain below. Great good fortune.",
+        "image": "Thunder on the mountain: the image of preponderance of the small. Thus in their conduct the superior person gives preponderance to reverence. In bereavement they give preponderance to grief. In their expenditures they give preponderance to thrift."
+    },
+    {
+        "id": "63",
+        "name": "Chi Chi - After Completion",
+        "hexagram": "☵☲",
+        "judgement": "After Completion. Success in small matters. Perseverance furthers. At the beginning good fortune, at the end disorder.",
+        "image": "Water over fire: the image of the condition after completion. Thus the superior person takes thought of misfortune and arms themself against it in advance."
+    },
+    {
+        "id": "64",
+        "name": "Wei Chi - Before Completion",
+        "hexagram": "☲☵",
+        "judgement": "Before Completion. Success. But if the little fox, after nearly completing the crossing, gets their tail in the water, there is nothing that would further.",
+        "image": "Fire over water: the image of the condition before transition. Thus the superior person is careful In the differentiation of things, so that each finds its place."
+    }
+]

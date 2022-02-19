@@ -1,0 +1,98 @@
+{
+    "Ch'ien": {
+        "name": "Ch'ien",
+        "sequence": [
+            7,
+            7,
+            7
+        ],
+        "alt-name": "the Creative",
+        "attribute": "strong",
+        "image": "heaven",
+        "relationship": "father"
+    },
+    "K'un": {
+        "name": "K'un",
+        "sequence": [
+            8,
+            8,
+            8
+        ],
+        "alt-name": "the Receptive",
+        "attribute": "devoted, yielding",
+        "image": "earth",
+        "relationship": "mother"
+    },
+    "Chen": {
+        "name": "Chên",
+        "sequence": [
+            7,
+            8,
+            8
+        ],
+        "alt-name": "the Arousing",
+        "attribute": "inciting movement",
+        "image": "thunder",
+        "relationship": "first son"
+    },
+    "K'an": {
+        "name": "K'an",
+        "sequence": [
+            8,
+            7,
+            8
+        ],
+        "alt-name": "the Abysmal",
+        "attribute": "dangerous",
+        "image": "water",
+        "relationship": "second son"
+    },
+    "Ken": {
+        "name": "Kên",
+        "sequence": [
+            8,
+            8,
+            7
+        ],
+        "alt-name": "Keeping Still",
+        "attribute": "resting",
+        "image": "mountain",
+        "relationship": "third son"
+    },
+    "Sun": {
+        "name": "Sun",
+        "sequence": [
+            8,
+            7,
+            7
+        ],
+        "alt-name": "the Gentle",
+        "attribute": "penetrating",
+        "image": "wind, wood",
+        "relationship": "first-daughter"
+    },
+    "Li": {
+        "name": "Li",
+        "sequence": [
+            7,
+            8,
+            7
+        ],
+        "alt-name": "the Clinging",
+        "attribute": "light-giving",
+        "image": "fire",
+        "relationship": "second daughter"
+    },
+    "Tui": {
+        "name": "Tui",
+        "sequence": [
+            7,
+            7,
+            8
+        ],
+        "alt-name": "the Joyous",
+        "attribute": "joyful",
+        "image": "lake",
+        "relationship": "third daughter"
+    }
+}
