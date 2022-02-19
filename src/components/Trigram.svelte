@@ -15,7 +15,7 @@
 	};
 </script>
 
-<p>{trigrams[trigramIndex - 1]}</p>
+<!-- <p>{trigrams[trigramIndex - 1]}</p> -->
 
 {#each trigramMapping[trigrams[trigramIndex - 1]] as line}
 	<Bar lineType={line === '8' ? 'yang' : 'yin'} />

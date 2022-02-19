@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { Hexagram } from 'src/types';
+	import Trigram from './Trigram.svelte';
 
 	export let hexagram: Hexagram;
 </script>
@@ -16,8 +17,10 @@
 		<p>{hexagram.judgement}</p>
 		<h2>Image</h2>
 		<p>{hexagram.images}</p>
-		<!-- <Trigram trigramIndex={hexagram.trigramPair.above} />
-		<Trigram trigramIndex={hexagram.trigramPair.below} /> -->
+		<div class="mt-5">
+			<Trigram trigramIndex={hexagram.trigramPair.above} />
+			<Trigram trigramIndex={hexagram.trigramPair.below} />
+		</div>
 	</div>
 </div>
 
