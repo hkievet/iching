@@ -15,8 +15,8 @@
 		{/each}
 		<p>{hexagram.judgement}</p>
 		<p>{hexagram.images}</p>
-		<Trigram trigramIndex={hexagram.trigramPair.above} />
-		<Trigram trigramIndex={hexagram.trigramPair.below} />
+		<!-- <Trigram trigramIndex={hexagram.trigramPair.above} />
+		<Trigram trigramIndex={hexagram.trigramPair.below} /> -->
 	</div>
 </div>
 
