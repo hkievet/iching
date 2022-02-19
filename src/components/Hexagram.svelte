@@ -1,6 +1,5 @@
-<script lang="typescript">
+<script lang="ts">
 	import type { Hexagram } from 'src/types';
-	import Trigram from './Trigram.svelte';
 
 	export let hexagram: Hexagram;
 </script>
