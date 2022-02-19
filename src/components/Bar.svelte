@@ -16,7 +16,7 @@
 	on:click={onClick}
 	on:mouseenter={() => (hovering = true)}
 	on:mouseleave={() => (hovering = false)}
-	class="hover:cursor-pointer"
+	class="hover:cursor-pointer flex justify-center"
 >
 	{#if (lineType === 'yang' && !hovering) || (lineType == 'yin' && hovering)}
 		<div class="w-64 flex-row flex h-10 mb-2">

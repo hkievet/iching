@@ -6,9 +6,11 @@
 
 	import { lookupTrigramByValue, trigramMapping, trigrams } from './store';
 
-	export let trigramIndex;
+	export let trigramIndex = 0;
 	// export let topOrBottom: 'top' | 'bottom';
-	const trigramLines: string = trigramMapping[trigrams[trigramIndex - 1]];
+	$: trigram = trigrams[trigramIndex - 1];
+	let trigramLines: string;
+	$: trigramLines = trigramMapping[trigram];
 
 	// what's the new trigram?
 	function onLineChange(lineNumber) {
@@ -20,11 +22,10 @@
 	}
 </script>
 
-{#each trigramLines as line, i}
+{#each trigramLines as line, i (trigram + line + i)}
 	<Bar
 		on:changeLine={({ detail }) => onLineChange(detail.lineNumber)}
 		lineType={line === '8' ? 'yang' : 'yin'}
 		lineNumber={i}
 	/>
-	<!-- lineNumber={topOrBottom === 'top' ? 5 - i : 2 - i} -->
 {/each}

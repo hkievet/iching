@@ -12,7 +12,7 @@
 </script>
 
 <nav>
-	<h1>HN</h1>
+	<h1>I Ching Explorer</h1>
 	{#each links as link}
 		{#if link.show === undefined || link.show}
 			<a href={link.href} class:current={link.href === pathname}>{link.text}</a>
